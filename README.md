@@ -2,7 +2,7 @@
 
 Authors: Luis Eduardo Andrade Silva & Cristina Calvo López
 
-In this repository you can find the codes from the paper "Is it worth to attend summer research camp? A propensity score matching approach to educational attainment determinants" by Andrade Silva, Luis Eduardo and Calvo López, Cristina.
+In this repository you can find the codes from the paper "Is it worth to attend summer research camp? A propensity score matching approach to educational attainment determinants" by Andrade Silva, Luis Eduardo and Calvo López, Cristina. 
 
 
 
